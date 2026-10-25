@@ -13,22 +13,31 @@ pub enum Language {
     System,
     En,
     Uk,
+    It,
 }
 
 impl Language {
-    pub const ALL: [Self; 3] = [Self::System, Self::En, Self::Uk];
+    /// In the order the preferences list them: the system's, then by their own names.
+    pub const ALL: [Self; 4] = [Self::System, Self::En, Self::It, Self::Uk];
 
     pub fn label(self) -> &'static str {
         match self {
             Self::System => tr("System language"),
             Self::En => "English",
             Self::Uk => "Українська",
+            Self::It => "Italiano",
         }
     }
 
     pub fn from_locale(locale: &str) -> Self {
         let language = locale.split(['-', '_', '.', '@']).next().unwrap_or("");
-        if language.eq_ignore_ascii_case("uk") { Self::Uk } else { Self::En }
+        if language.eq_ignore_ascii_case("uk") {
+            Self::Uk
+        } else if language.eq_ignore_ascii_case("it") {
+            Self::It
+        } else {
+            Self::En
+        }
     }
 
     pub fn resolve(self, locale: Option<&str>) -> Self {
@@ -48,28 +57,44 @@ pub fn set_current(language: Language) {
     CURRENT.set(language);
 }
 
-const CATALOG: &str = include_str!("i18n/uk.tsv");
+const UK_CATALOG: &str = include_str!("i18n/uk.tsv");
+const IT_CATALOG: &str = include_str!("i18n/it.tsv");
 static UK: OnceLock<HashMap<String, String>> = OnceLock::new();
+static IT: OnceLock<HashMap<String, String>> = OnceLock::new();
 
+/// English source<TAB>translation per line; `#` starts a comment, `\n` is a line break.
+fn parse(catalog: &str) -> HashMap<String, String> {
+    catalog
+        .lines()
+        .filter(|line| !line.is_empty() && !line.starts_with('#'))
+        .filter_map(|line| line.split_once('\t'))
+        .map(|(source, text)| (source.replace("\\n", "\n"), text.replace("\\n", "\n")))
+        .collect()
+}
+
+/// A language's catalog; `None` for English, which needs none.
+fn catalog_of(language: Language) -> Option<&'static HashMap<String, String>> {
+    match language {
+        Language::Uk => Some(UK.get_or_init(|| parse(UK_CATALOG))),
+        Language::It => Some(IT.get_or_init(|| parse(IT_CATALOG))),
+        Language::System | Language::En => None,
+    }
+}
+
+/// The Ukrainian catalog: the reference every other catalog is checked against.
+#[cfg(test)]
 fn catalog() -> &'static HashMap<String, String> {
-    UK.get_or_init(|| {
-        CATALOG
-            .lines()
-            .filter(|line| !line.is_empty() && !line.starts_with('#'))
-            .filter_map(|line| line.split_once('\t'))
-            .map(|(source, text)| (source.replace("\\n", "\n"), text.replace("\\n", "\n")))
-            .collect()
-    })
+    UK.get_or_init(|| parse(UK_CATALOG))
 }
 
 /// Exact lookup at an explicit interface boundary; unknown text falls back to English.
 pub fn tr(text: &str) -> &str {
-    if CURRENT.get() == Language::Uk { catalog().get(text).map(String::as_str).unwrap_or(text) } else { text }
+    catalog_of(CURRENT.get()).and_then(|catalog| catalog.get(text)).map_or(text, String::as_str)
 }
 
 /// Context-specific interface label with the original English source as fallback.
 pub fn tr_context<'a>(source: &'a str, key: &str) -> &'a str {
-    if CURRENT.get() == Language::Uk { catalog().get(key).map(String::as_str).unwrap_or(source) } else { source }
+    catalog_of(CURRENT.get()).and_then(|catalog| catalog.get(key)).map_or(source, String::as_str)
 }
 
 pub fn placeholder_prompt(kind: deckcraft_model::PhType) -> &'static str {
@@ -101,16 +126,18 @@ pub fn format(source: &str, values: &[String]) -> String {
     out
 }
 
-/// Ukrainian integer count forms: 1/21; 2–4/22–24; 0/5–19.
+/// `n` and its word. Ukrainian count forms are given (1/21; 2–4/22–24; 0/5–19). Italian, like
+/// English, has one form for 1 and one for the rest: callers pass the English word for `n`, and
+/// its Italian comes from the catalog.
 pub fn count(n: usize, english: &str, one: &str, few: &str, many: &str) -> String {
-    let word = if CURRENT.get() == Language::Uk {
-        match (n % 10, n % 100) {
+    let word = match CURRENT.get() {
+        Language::Uk => match (n % 10, n % 100) {
             (1, last) if last != 11 => one,
             (2..=4, last) if !(12..=14).contains(&last) => few,
             _ => many,
-        }
-    } else {
-        english
+        },
+        Language::It => tr(english),
+        Language::System | Language::En => english,
     };
     format!("{n} {word}")
 }
@@ -310,15 +337,17 @@ mod tests {
 
     #[test]
     fn catalog_is_unique_complete_and_preserves_placeholders() {
-        let mut seen = std::collections::HashSet::new();
-        for (line_no, line) in CATALOG.lines().enumerate() {
-            if line.is_empty() || line.starts_with('#') {
-                continue;
+        for catalog in [UK_CATALOG, IT_CATALOG] {
+            let mut seen = std::collections::HashSet::new();
+            for (line_no, line) in catalog.lines().enumerate() {
+                if line.is_empty() || line.starts_with('#') {
+                    continue;
+                }
+                let (source, text) = line.split_once('\t').unwrap();
+                assert!(seen.insert(source), "duplicate on {}: {source}", line_no + 1);
+                assert!(!text.trim().is_empty(), "empty translation: {source}");
+                assert_eq!(placeholders(source), placeholders(text), "placeholder names/order/format: {source}");
             }
-            let (source, text) = line.split_once('\t').unwrap();
-            assert!(seen.insert(source), "duplicate on {}: {source}", line_no + 1);
-            assert!(!text.trim().is_empty(), "empty translation: {source}");
-            assert_eq!(placeholders(source), placeholders(text), "placeholder names/order/format: {source}");
         }
     }
 
@@ -353,6 +382,30 @@ mod tests {
         ] {
             assert_eq!(count(n, "slides", "слайд", "слайди", "слайдів"), format!("{n} {word}"));
         }
+        set_current(Language::En);
+    }
+
+    #[test]
+    fn italian_translates_every_ukrainian_entry_and_keeps_its_placeholders() {
+        let italian = catalog_of(Language::It).unwrap();
+        let missing: Vec<_> = catalog().keys().filter(|key| !italian.contains_key(*key)).collect();
+        assert!(missing.is_empty(), "missing Italian translations: {missing:?}");
+        for (source, text) in italian {
+            assert_eq!(placeholders(source), placeholders(text), "placeholders differ: {source:?} → {text:?}");
+            assert!(!text.trim().is_empty() || source.trim().is_empty(), "empty Italian translation: {source:?}");
+        }
+    }
+
+    #[test]
+    fn italian_follows_the_system_and_counts_like_english() {
+        assert_eq!(Language::System.resolve(Some("it-IT")), Language::It);
+        assert_eq!(Language::System.resolve(Some("it_CH.UTF-8")), Language::It);
+        set_current(Language::It);
+        assert_eq!(tr("File"), "File");
+        assert_eq!(tr_context("Insert", "@ribbon:Insert"), "Inserisci");
+        assert_eq!(count(1, "slide", "", "", ""), "1 diapositiva");
+        assert_eq!(count(3, "slides", "", "", ""), "3 diapositive");
+        assert_eq!(recovered(2), "Recupero dall'ultima sessione: 2 presentazioni non salvate");
         set_current(Language::En);
     }
 }

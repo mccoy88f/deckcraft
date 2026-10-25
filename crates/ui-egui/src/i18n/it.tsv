@@ -1,0 +1,1241 @@
+# Italian interface catalog. English source<TAB>translation; \n denotes a line break.
+# Contributor-original translation, MIT OR Apache-2.0. Terminology follows PowerPoint's Italian interface.
+  Fixed date (empty = update automatically):	  Data fissa (vuota = aggiorna automaticamente):
+  Footer text:	  Testo piè di pagina:
+  Present  	  Presenta  
+ pt	 pt
+ — Edited	 — Modificato
+"Not Allowed" Symbol	Simbolo "Non consentito"
+% of all commits	% di tutti i commit
++ New Comment	+ Nuovo commento
++ New Slide	+ Nuova diapositiva
++ Row	+ Riga
++ Series	+ Serie
++Bin	+Contenitore
+100% Stacked Bar	Barre in pila 100%
+100% Stacked Column	Istogramma in pila 100%
+35mm Slides	Diapositive 35 mm
+@ribbon:Home	Home
+@ribbon:Insert	Inserisci
+@{}: {} PRs, {} commits, +{} / −{} lines (Δ {}), +{} / −{} binary assets, {} – {}	@{}: {} PR, {} commit, +{} / −{} righe (Δ {}), +{} / −{} risorse binarie, {} – {}
+A3 Paper (297x420 mm)	Carta A3 (297x420 mm)
+A4 Paper (210x297 mm)	Carta A4 (210x297 mm)
+Aa	Aa
+Abc	Abc
+About	Informazioni
+About DeckCraft	Informazioni su DeckCraft
+Accent 1	Colore 1
+Accent 2	Colore 2
+Accent 3	Colore 3
+Accent 4	Colore 4
+Accent 5	Colore 5
+Accent 6	Colore 6
+Accessibility Checker	Verifica accessibilità
+Across	Orizzontale
+Action	Azione
+Action Button: Custom	Pulsante di azione: Personalizzato
+Action Button: Document	Pulsante di azione: Documento
+Action Button: Get Information	Pulsante di azione: Informazioni
+Action Button: Go Back	Pulsante di azione: Indietro
+Action Button: Go Back or Previous	Pulsante di azione: Indietro o Precedente
+Action Button: Go Forward or Next	Pulsante di azione: Avanti o Successivo
+Action Button: Go Home	Pulsante di azione: Home
+Action Button: Go to Beginning	Pulsante di azione: Inizio
+Action Button: Go to End	Pulsante di azione: Fine
+Action Button: Help	Pulsante di azione: Guida
+Action Button: Sound	Pulsante di azione: Suono
+Action Button: Video	Pulsante di azione: Video
+Action Button: {k}	Pulsante di azione: {k}
+Action Buttons	Pulsanti di azione
+Add Animation	Aggiungi animazione
+Add Section	Aggiungi sezione
+Add\nAnimation	Aggiungi\nanimazione
+Address:	Indirizzo:
+Adjust Shape	Regola forma
+After Previous	Dopo precedente
+After:	Dopo:
+Airplane	Aeroplano
+Align	Allinea
+Align Bottom	Allinea in basso
+Align Center	Allinea al centro
+Align Left	Allinea a sinistra
+Align Middle	Allinea in mezzo
+Align Right	Allinea a destra
+Align Text	Allinea testo
+Align Top	Allinea in alto
+Alt Text	Testo alternativo
+Alt+	Alt+
+Alt+F9	Alt+F9
+Alt\nText	Testo\nalternativo
+An open-source, clean-room project. Not affiliated with Microsoft.	Progetto open source sviluppato in clean room. Non affiliato a Microsoft.
+Angle	Angolo
+Animation Gallery	Raccolta animazioni
+Animation Pane	Riquadro animazione
+Animation Styles	Stili animazione
+Animation\nPane	Riquadro\nanimazione
+Animations	Animazioni
+Animation Painter	Copia animazione
+Apply Animation	Applica animazione
+Play/Pause GIF	Riproduci/Sospendi GIF
+Animations on Slide	Animazioni nella diapositiva
+Appear	Apparizione
+Apply	Applica
+Apply To All	Applica a tutte
+Apply to All	Applica a tutte
+Apply\nTo All	Applica\na tutte
+Arc	Arco
+Arcs	Archi
+Area	Area
+Arrange	Disponi
+Arrow	Freccia
+Arrow at end	Freccia alla fine
+Arrow at start	Freccia all'inizio
+Arrow: Bent	Freccia: piegata
+Arrow: Bent-Up	Freccia: piegata in su
+Arrow: Chevron	Freccia: gallone
+Arrow: Down	Freccia: in giù
+Arrow: Left	Freccia: a sinistra
+Arrow: Left-Right	Freccia: sinistra-destra
+Arrow: Left-Right-Up	Freccia: sinistra-destra-su
+Arrow: Left-Up	Freccia: sinistra-su
+Arrow: Notched Right	Freccia: a destra dentellata
+Arrow: Pentagon	Freccia: pentagono
+Arrow: Quad	Freccia: a quattro punte
+Arrow: Right	Freccia: a destra
+Arrow: Striped Right	Freccia: a destra con strisce
+Arrow: U-Turn	Freccia: inversione a U
+Arrow: Up	Freccia: in su
+Arrow: Up-Down	Freccia: su-giù
+Arrows	Frecce
+Arrows at both ends	Frecce alle due estremità
+As One Object	Come oggetto unico
+Audio	Audio
+Audio from File…	Audio da file…
+AutoCorrect as you type	Correzione automatica durante la digitazione
+Autofit	Adatta automaticamente
+Automatic	Automatico
+B4 (ISO) Paper (250x353 mm)	Carta B4 (ISO) (250x353 mm)
+B5 (ISO) Paper (176x250 mm)	Carta B5 (ISO) (176x250 mm)
+Background	Sfondo
+Background Styles	Stili sfondo
+Background\nStyles	Stili\nsfondo
+Backspace	Backspace
+Banded Columns	Colonne alternate
+Banded Rows	Righe alternate
+Banner	Banner
+Basic Cycle	Ciclo di base
+Basic List	Elenco di base
+Basic Process	Processo di base
+Basic Shapes	Forme di base
+Before text (in):	Prima del testo (in):
+Bevel	Smusso
+Binary assets added	Risorse binarie aggiunte
+Binary assets removed	Risorse binarie rimosse
+Black Left	Attraverso il nero a sinistra
+Black Pen	Penna nera
+Black Right	Attraverso il nero a destra
+Blinds	Veneziane
+Block Arc	Arco pieno
+Block Arrows	Frecce a blocchi
+Blue	Blu
+Blue Pen	Penna blu
+Bold	Grassetto
+Bold Flash	Flash grassetto
+Both	Entrambi
+Bottom	In basso
+Bounce	Rimbalzo
+Box	Casella
+Box In	Casella verso l'interno
+Box Out	Casella verso l'esterno
+Box and Whisker	Box e whisker
+Brightness	Luminosità
+Brightness {:+}%	Luminosità {:+}%
+Bring Forward	Porta avanti
+Bring to Front	Porta in primo piano
+Bring\nForward	Porta\navanti
+Browsed at a kiosk (full screen)	Visualizzazione in un chiosco (schermo intero)
+Browsed by an individual (window)	Visualizzazione individuale (finestra)
+Bubble	Bolle
+Bullets	Elenchi puntati
+Burst	Esplosione
+By Paragraph	Per paragrafo
+Callout: Down Arrow	Callout: freccia in giù
+Callout: Left Arrow	Callout: freccia a sinistra
+Callout: Line	Callout: linea
+Callout: Right Arrow	Callout: freccia a destra
+Callout: Up Arrow	Callout: freccia in su
+Callouts	Callout
+Cameo	Cameo
+Camera capture is not available yet	L'acquisizione dalla fotocamera non è ancora disponibile
+Cancel	Annulla
+Capitalize Each Word	Iniziali Maiuscole
+Caps	Maiuscole
+Center	Al centro
+Centered	Centrato
+Change Case	Maiuscole/minuscole
+Change Chart Type	Cambia tipo di grafico
+Change Picture	Cambia immagine
+Change Shape	Cambia forma
+Change\nChart Type	Cambia tipo\ndi grafico
+Character Spacing	Spaziatura caratteri
+Characters	Caratteri
+Chart	Grafico
+Chart Data	Dati del grafico
+Chart Design	Struttura grafico
+Chart Elements	Elementi grafico
+Chart…	Grafico…
+Check Accessibility	Verifica accessibilità
+Check\nAccessibility	Verifica\naccessibilità
+Checkerboard	Scacchiera
+Chevron	Gallone
+Choose a SmartArt Graphic	Scegli elemento grafico SmartArt
+Chord	Corda
+Circle	Cerchio
+Circle In	Cerchio verso l'interno
+Circle Out	Cerchio verso l'esterno
+Clear All Formatting	Cancella formattazione
+Click a symbol to insert it at the insertion point.	Fai clic su un simbolo per inserirlo nel punto di inserimento.
+Click icon to add SmartArt graphic	Fai clic sull'icona per aggiungere un elemento grafico SmartArt
+Click icon to add chart	Fai clic sull'icona per aggiungere un grafico
+Click icon to add media	Fai clic sull'icona per aggiungere contenuti multimediali
+Click icon to add picture	Fai clic sull'icona per aggiungere un'immagine
+Click icon to add table	Fai clic sull'icona per aggiungere una tabella
+Click to add first slide	Fai clic per aggiungere la prima diapositiva
+Click to add notes	Fai clic per aggiungere le note
+Click to add subtitle	Fai clic per aggiungere un sottotitolo
+Click to add text	Fai clic per aggiungere testo
+Click to add title	Fai clic per aggiungere un titolo
+Click to edit Master text styles	Fai clic per modificare gli stili del testo dello schema
+Click to edit Master title style	Fai clic per modificare lo stile del titolo dello schema
+Clock	Orologio
+Clockwise	In senso orario
+Close	Chiudi
+Close Master View	Chiudi visualizzazione schema
+Close\nMaster View	Chiudi\nvisualizzazione schema
+Cloud	Nuvola
+Clustered Bar	Barre raggruppate
+Clustered Column	Istogramma a colonne raggruppate
+Cmd+	Cmd+
+Cmd+,	Cmd+,
+Cmd+-	Cmd+-
+Cmd+=	Cmd+=
+Cmd+F1	Cmd+F1
+Cmd+Shift+P	Cmd+Shift+P
+Collapse the Ribbon	Comprimi la barra multifunzione
+Color	Colore
+Color Pulse	Impulso colore
+Colors	Colori
+Columns	Colonne
+Comb	Pettine
+Combo	Combinato
+Command Palette	Tavolozza comandi
+Comment	Commento
+Comments	Commenti
+Commits	Commit
+Community Links	Link della community
+Company	Società
+Complementary Color	Colore complementare
+Connect Shapes	Collega forme
+Connection Sites	Punti di connessione
+Connector: Curved	Connettore: curvo
+Connector: Elbow	Connettore: a gomito
+Connector: Elbow (one bend)	Connettore: a gomito (una piegatura)
+Content	Contenuto
+Contrast	Contrasto
+Contrast {:+}%	Contrasto {:+}%
+Contributors	Collaboratori
+Conveyor	Nastro trasportatore
+Copy	Copia
+Corrections	Correzioni
+Couldn't save AutoRecover information: {e}	Impossibile salvare le informazioni di salvataggio automatico: {e}
+Counter Clockwise	Senso antiorario
+Cover	Copertura
+Create	Crea
+Crop	Ritaglia
+Crop 10% each side	Ritaglia del 10% su ogni lato
+Crop 20% each side	Ritaglia del 20% su ogni lato
+Crop to Shape	Ritaglia a forma
+Cross	Croce
+Crush	Schiacciamento
+Ctrl+	Ctrl+
+Cube	Cubo
+Currency	Valuta
+Curtains	Tende
+Custom	Personalizzato
+Custom Path	Percorso personalizzato
+Custom Show	Presentazione personalizzata
+Custom Show 1	Presentazione personalizzata 1
+Custom Shows	Presentazioni personalizzate
+Custom Slide Show	Presentazione personalizzata
+Custom\nShow	Presentazione\npersonalizzata
+Cut	Taglia
+Cylinder	Cilindro
+Dark Blue	Blu scuro
+Dark Mode	Modalità scura
+Dark Red	Rosso scuro
+Dark appearance	Aspetto scuro
+Dark\nMode	Modalità\nscura
+Darken	Scurisci
+Dash	Trattino
+Dash Dot	Tratto punto
+Dashes	Tratteggi
+Database	Database
+Date	Data
+Date & Time	Data e ora
+Date &\nTime	Data e\nora
+Date and Time	Data e ora
+Date and time	Data e ora
+Decagon	Decagono
+Decision	Decisione
+DeckCraft	DeckCraft
+Decrease Font Size	Riduci dimensione carattere
+Decrease List Level	Riduci livello elenco
+Delay:	Ritardo:
+Delete	Elimina
+Delete Columns	Elimina colonne
+Delete Comment	Elimina commento
+Delete Layout	Elimina layout
+Delete Rows	Elimina righe
+Delete Slide	Elimina diapositiva
+Delete Table	Elimina tabella
+Delete Text	Elimina testo
+Desaturate	Desatura
+Deselect	Deseleziona
+Design	Progettazione
+Design Ideas	Idee di progettazione
+Design\nIdeas	Idee di\nprogettazione
+Deutsch	Deutsch
+Diagonal Stripe	Striscia diagonale
+Diamond	Rombo
+Diamond In	Rombo verso l'interno
+Diamond Out	Rombo verso l'esterno
+Direction	Direzione
+Disappear	Scomparsa
+Discard Recovered Presentations	Ignora presentazioni recuperate
+Display name	Nome visualizzato
+Dissolve	Dissolvi
+Dissolve In	Dissolvi in entrata
+Dissolve Out	Dissolvi in uscita
+Distribute	Distribuisci
+Distribute Columns	Distribuisci colonne
+Distribute Horizontally	Distribuisci orizzontalmente
+Distribute Rows	Distribuisci righe
+Distribute Vertically	Distribuisci verticalmente
+Division Sign	Segno di divisione
+Do not Autofit	Non adattare automaticamente
+Do you want to save the changes you made to {what}?	Vuoi salvare le modifiche apportate a {what}?
+Document	Documento
+Dodecagon	Dodecagono
+Don't Save	Non salvare
+Don't show on title slide	Non mostrare nella diapositiva titolo
+Done	Fatto
+Donut	Anello
+Doors	Porte
+Double Brace	Doppia parentesi graffa
+Double Bracket	Doppia parentesi quadra
+Double Wave	Onda doppia
+Doughnut	Anello
+Down	Giù
+Drape	Drappeggio
+Draw	Disegno
+Drop Shadow Rectangle	Rettangolo con ombreggiatura
+Duplicate	Duplica
+Duplicate Selected Slides	Duplica diapositive selezionate
+Duplicate Slide	Duplica diapositiva
+Duration:	Durata:
+Dynamic Content	Contenuto dinamico
+Edit	Modifica
+Edit Alt Text…	Modifica testo alternativo…
+Edit Data	Modifica dati
+Edit Shape	Modifica forma
+Edit Text	Modifica testo
+Edit the data: first row = series names, first column = categories.	Modifica i dati: prima riga = nomi delle serie, prima colonna = categorie.
+Edit\nData	Modifica\ndati
+Edit\nShape	Modifica\nforma
+Editing	Modifica
+Effect Options	Opzioni effetto
+Effect\nOptions	Opzioni\neffetto
+Effects	Effetti
+Email Address	Indirizzo di posta elettronica
+Email address:	Indirizzo di posta elettronica:
+Emphasis	Enfasi
+End	Fine
+End Show	Termina presentazione
+End of slide show	Fine della presentazione
+End of slide show, click to exit.	Fine della presentazione, fai clic per uscire.
+End trim (s):	Taglio finale (s):
+English (United Kingdom)	Inglese (Regno Unito)
+English (United States)	Inglese (Stati Uniti)
+Enter	Invio
+Entrance	Entrata
+Equals	Uguale
+Equation	Equazione
+Equation Shapes	Forme equazione
+Eraser	Gomma
+Escape	Esc
+Español	Español
+Exciting	Divertente
+Exit	Uscita
+Expand	Espandi
+Explosion: 14 Points	Esplosione: 14 punte
+Explosion: 8 Points	Esplosione: 8 punte
+Export	Esporta
+Export the presentation as:	Esporta la presentazione come:
+Exported {path}	Esportato: {path}
+Export…	Esporta…
+Fade	Dissolvenza
+Fade in (s):	Dissolvenza in entrata (s):
+Fade out (s):	Dissolvenza in uscita (s):
+Fall Over	Caduta
+Ferris Wheel	Ruota panoramica
+File	File
+Fill	Riempimento
+Fill & Line	Riempimento e linea
+Fill Color	Colore riempimento
+Filled Radar	Radar riempito
+Find…	Trova…
+First	Primo
+First Column	Prima colonna
+First Slide	Prima diapositiva
+First commit	Primo commit
+Fit	Adatta
+Fit slide to current window	Adatta la diapositiva alla finestra corrente
+Fit to Window	Adatta alla finestra
+Fit to\nWindow	Adatta alla\nfinestra
+Flash	Lampo
+Flip	Capovolgi
+Flip Horizontal	Capovolgi orizzontalmente
+Flip Vertical	Capovolgi verticalmente
+Float In	Fluttua in entrata
+Float Out	Fluttua in uscita
+Flowchart	Diagramma di flusso
+Flowchart: Alternate Process	Diagramma di flusso: processo alternativo
+Flowchart: Card	Diagramma di flusso: scheda
+Flowchart: Collate	Diagramma di flusso: fascicolazione
+Flowchart: Connector	Diagramma di flusso: connettore
+Flowchart: Data	Diagramma di flusso: dati
+Flowchart: Decision	Diagramma di flusso: decisione
+Flowchart: Delay	Diagramma di flusso: ritardo
+Flowchart: Direct Access Storage	Diagramma di flusso: memoria ad accesso diretto
+Flowchart: Display	Diagramma di flusso: visualizzazione
+Flowchart: Document	Diagramma di flusso: documento
+Flowchart: Extract	Diagramma di flusso: estrazione
+Flowchart: Internal Storage	Diagramma di flusso: memoria interna
+Flowchart: Magnetic Disk	Diagramma di flusso: disco magnetico
+Flowchart: Manual Input	Diagramma di flusso: input manuale
+Flowchart: Manual Operation	Diagramma di flusso: operazione manuale
+Flowchart: Merge	Diagramma di flusso: unione
+Flowchart: Multidocument	Diagramma di flusso: multidocumento
+Flowchart: Off-page Connector	Diagramma di flusso: connettore fuori pagina
+Flowchart: Or	Diagramma di flusso: o
+Flowchart: Predefined Process	Diagramma di flusso: processo predefinito
+Flowchart: Preparation	Diagramma di flusso: preparazione
+Flowchart: Process	Diagramma di flusso: processo
+Flowchart: Punched Tape	Diagramma di flusso: nastro perforato
+Flowchart: Sequential Access Storage	Diagramma di flusso: memoria ad accesso sequenziale
+Flowchart: Sort	Diagramma di flusso: ordinamento
+Flowchart: Stored Data	Diagramma di flusso: dati memorizzati
+Flowchart: Summing Junction	Diagramma di flusso: giunzione di somma
+Flowchart: Terminator	Diagramma di flusso: terminatore
+Fly In	Entrata veloce
+Fly Out	Uscita veloce
+Fly Through	Attraversamento
+Folded Corner	Angolo ripiegato
+Follow the layout	Segui il layout
+Followed Hyperlink	Collegamento ipertestuale visitato
+Font	Carattere
+Font Color	Colore carattere
+Font Size	Dimensione carattere
+Fonts	Tipi di carattere
+Footer	Piè di pagina
+Foreground	Primo piano
+Format	Formato
+Format Background	Formato sfondo
+Format Background…	Formato sfondo…
+Format Painter	Copia formato
+Format Painter (double-click to keep it on)	Copia formato (doppio clic per mantenerlo attivo)
+Format Pane	Riquadro formato
+Format Shape	Formato forma
+Format Shape…	Formato forma…
+Format\nBackground	Formato\nsfondo
+Format\nPane	Riquadro\nformato
+Formatting State	Stato formattazione
+Fracture	Frattura
+Frame	Cornice
+Français	Français
+Freeform	Figura a mano libera
+From 	Da 
+From Beginning	Dall'inizio
+From Bottom	Dal basso
+From Bottom Left	Dal basso a sinistra
+From Bottom Right	Dal basso a destra
+From Current Slide	Dalla diapositiva corrente
+From Left	Da sinistra
+From Right	Da destra
+From Top	Dall'alto
+From Top Left	Dall'alto a sinistra
+From Top Right	Dall'alto a destra
+From bottom left	Dal basso a sinistra
+From bottom right	Dal basso a destra
+From center	Dal centro
+From top left	Dall'alto a sinistra
+From top right	Dall'alto a destra
+From\nBeginning	Dal\nprincipio
+From\nCurrent Slide	Dalla diapositiva\ncorrente
+Full	Intero
+Full Page Slides	Diapositive a pagina intera
+Funnel	Imbuto
+Gallery	Raccolta
+General	Generale
+Get Text	Ottieni testo
+Glitter	Brillantini
+Glow	Alone
+Go to	Vai a
+Go to Slide	Vai alla diapositiva
+Grab bag	Sacchetto a sorpresa
+Gradient fill	Riempimento sfumato
+Gradient stops	Cursori sfumatura
+Gradient…	Sfumatura…
+Grayscale	Scala di grigi
+Greek	Greco
+Green	Verde
+Gridlines	Griglia
+Group	Raggruppa
+Group Objects	Raggruppa oggetti
+Grow & Turn	Ingrandimento e rotazione
+Grow/Shrink	Aumenta/Riduci
+Guides	Guide
+Half	Metà
+Half Frame	Mezza cornice
+Handout Master	Schema stampati
+Handout Master (coming soon)	Schema stampati (in arrivo)
+Handout\nMaster	Schema\nstampati
+Handouts (1 slide per page)	Stampati (1 diapositiva per pagina)
+Handouts (2 slides per page)	Stampati (2 diapositive per pagina)
+Handouts (3 slides per page)	Stampati (3 diapositive per pagina)
+Handouts (4 slides per page)	Stampati (4 diapositive per pagina)
+Handouts (6 slides per page)	Stampati (6 diapositive per pagina)
+Handouts (9 slides per page)	Stampati (9 diapositive per pagina)
+Header	Intestazione
+Header & Footer	Intestazione e piè di pagina
+Header &\nFooter	Intestazione e\npiè di pagina
+Header Row	Riga di intestazione
+Header and Footer	Intestazione e piè di pagina
+Header and Footer…	Intestazione e piè di pagina…
+Heart	Cuore
+Height	Altezza
+Height (in):	Altezza (in):
+Height:	Altezza:
+Help	Guida
+Heptagon	Ettagono
+Hexagon	Esagono
+Hide All	Nascondi tutto
+Hide Background Graphics	Nascondi grafica di sfondo
+Hide During Show	Nascondi durante la presentazione
+Hide Slide	Nascondi diapositiva
+Hide background graphics	Nascondi grafica di sfondo
+Hide\nSlide	Nascondi\ndiapositiva
+Hierarchy	Gerarchia
+High	Alta
+Highlighter	Evidenziatore
+Histogram	Istogramma
+Home	Home
+Honeycomb	Nido d'ape
+Horizontal	Orizzontale
+Horz In	Orizzontale verso l'interno
+Horz Out	Orizzontale verso l'esterno
+How would you describe this object and its context to someone who is blind or has low vision?	Come descriveresti questo oggetto e il suo contesto a una persona non vedente o ipovedente?
+Hyperlink	Collegamento ipertestuale
+Icons	Icone
+In	Interno
+In Bounce	Interno con rimbalzo
+Include hidden slides	Includi diapositive nascoste
+Increase Font Size	Aumenta dimensione carattere
+Increase List Level	Aumenta livello elenco
+Ink to Math	Input penna in formula matematica
+Ink to Math (coming soon)	Input penna in formula matematica (in arrivo)
+Ink to Shape	Input penna in forma
+Ink to Shape (coming soon)	Input penna in forma (in arrivo)
+Ink to Text	Input penna in testo
+Ink to Text (coming soon)	Input penna in testo (in arrivo)
+Ink to\nMath	Input penna in\nformula matematica
+Ink to\nShape	Input penna\nin forma
+Ink to\nText	Input penna\nin testo
+Inner	Interna
+Insert	Inserisci
+Insert Above	Inserisci sopra
+Insert Below	Inserisci sotto
+Insert Hyperlink	Inserisci collegamento ipertestuale
+Insert Layout	Inserisci layout
+Insert Left	Inserisci a sinistra
+Insert Placeholder	Inserisci segnaposto
+Insert Right	Inserisci a destra
+Insert Table	Inserisci tabella
+Insert Table…	Inserisci tabella…
+Insert picture from file…	Inserisci immagine da file…
+Insert\nAbove	Inserisci\nsopra
+Insert\nBelow	Inserisci\nsotto
+Insert\nLayout	Inserisci\nlayout
+Insert\nLeft	Inserisci\na sinistra
+Insert\nPlaceholder	Inserisci\nsegnaposto
+Insert\nRight	Inserisci\na destra
+Inspect Presentation	Ispeziona presentazione
+Inspect Shape	Ispeziona forma
+Inspect Slide	Ispeziona diapositiva
+Interface Language	Lingua dell'interfaccia
+Interface language:	Lingua dell'interfaccia:
+Interface size	Dimensione dell'interfaccia
+Isosceles Triangle	Triangolo isoscele
+Italiano	Italiano
+Italic	Corsivo
+JPEG image (current slide)	Immagine JPEG (diapositiva corrente)
+Join our community on Discord	Unisciti alla nostra community su Discord
+Join the ArtCraft community on Discord	Unisciti alla community di ArtCraft su Discord
+Justify	Giustifica
+L-Shape	Forma a L
+Language	Lingua
+Last	Ultimo
+Last Column	Ultima colonna
+Last Slide	Ultima diapositiva
+Last commit	Ultimo commit
+Layout	Layout
+Learn More	Altre informazioni
+Learn\nMore	Altre\ninformazioni
+Ledger Paper (11x17 in)	Carta Ledger (11x17 in)
+Left	Sinistra
+Left Brace	Parentesi graffa aperta
+Left Bracket	Parentesi quadra aperta
+Letter Paper (8.5x11 in)	Carta Letter (8.5x11 in)
+Liberation Serif	Liberation Serif
+Light Blue	Azzurro
+Light Green	Verde chiaro
+Light/Dark appearance	Aspetto chiaro/scuro
+Lighten	Schiarisci
+Lightning	Fulmine
+Lightning Bolt	Fulmine
+Line	Linea
+Line Color	Colore linea
+Line Spacing	Interlinea
+Line Spacing Options…	Opzioni interlinea…
+Line delta	Differenza righe
+Line spacing (lines):	Interlinea (righe):
+Line with Markers	Linee con indicatori
+Linear	Lineare
+Lines	Linee
+Lines +/−	Righe +/−
+Lines added	Righe aggiunte
+Lines deleted	Righe eliminate
+Link	Collegamento
+Link…	Collegamento…
+List Commands	Elenca comandi
+Lock	Blocca
+Long Dash	Tratteggio lungo
+Long Dash Dot	Tratto lungo punto
+Loop continuously until 'Esc'	Esegui a ciclo continuo fino alla pressione di 'Esc'
+Loop until Stopped	Ripeti fino all'interruzione
+Loops	Anelli
+Loose	Largo
+Low	Bassa
+MIT OR Apache-2.0 · © 2026 ArtCraft Team and the DeckCraft contributors	MIT OR Apache-2.0 · © 2026 ArtCraft Team e i collaboratori di DeckCraft
+Margins (pt)	Margini (pt)
+Mark as decorative	Contrassegna come decorativo
+Mark selected text as:	Contrassegna il testo selezionato come:
+Math	Matematica
+Matrix	Matrice
+Maximize content (else ensure fit)	Ingrandisci contenuto (altrimenti assicura adattamento)
+Media	Contenuti multimediali
+Media Info	Informazioni contenuti multimediali
+Medium	Media
+Merge Cells	Unisci celle
+Merge Shapes	Unisci forme
+Merge\nCells	Unisci\ncelle
+Merge\nShapes	Unisci\nforme
+Merged PRs	PR unite
+Middle	Al centro
+Minus Sign	Segno meno
+Model	Modello
+Models	Modelli
+Moon	Luna
+More Colors… #	Altri colori… #
+Morph	Morphing
+Motion	Movimento
+Motion Paths	Percorsi animazione
+Move	Sposta
+Move Down	Sposta giù
+Move Insertion Point	Sposta punto di inserimento
+Move Section	Sposta sezione
+Move Section Down	Sposta sezione giù
+Move Section Up	Sposta sezione su
+Move Slide	Sposta diapositiva
+Move Up	Sposta su
+Multiplication Sign	Segno di moltiplicazione
+Multiply	Moltiplica
+Mute	Disattiva audio
+Name	Nome
+Name (A–Z)	Nome (A–Z)
+Name:	Nome:
+New Comment	Nuovo commento
+New Presentation	Nuova presentazione
+New Slide	Nuova diapositiva
+New Slide (⇧⌘N)	Nuova diapositiva (⇧⌘N)
+New presentation	Nuova presentazione
+New show name:	Nome nuova presentazione:
+New\nComment	Nuovo\ncommento
+New\nSlide	Nuova\ndiapositiva
+Next	Avanti
+Next Slide	Diapositiva successiva
+Next Window	Finestra successiva
+Next ▶	Avanti ▶
+No Color	Nessun colore
+No Fill	Nessun riempimento
+No Glow	Nessun bagliore
+No Outline	Nessun contorno
+No Reflection	Nessun riflesso
+No Shadow	Nessuna ombra
+No Soft Edges	Nessun bordo sfumato
+No accessibility issues found. People with disabilities should not have difficulty reading this document.	Nessun problema di accessibilità rilevato. Le persone con disabilità non dovrebbero avere difficoltà a leggere questo documento.
+No comments on this slide.	Nessun commento in questa diapositiva.
+No contributor data was built into this copy.	Questa copia non include dati sui collaboratori.
+No fill	Nessun riempimento
+No line	Nessuna linea
+No model credits were built into this copy.	Questa copia non include i crediti dei modelli.
+No notes.	Nessuna nota.
+No sound: {err}	Nessun audio: {err}
+None	Nessuno
+Normal	Normale
+Not Equal	Diverso da
+Not allowed	Non consentito
+Notes	Note
+Notes Master	Schema note
+Notes Master (coming soon)	Schema note (in arrivo)
+Notes Page	Pagina note
+Notes Pages	Pagine note
+Notes\nMaster	Schema\nnote
+Notes\nPage	Pagina\nnote
+Nudge	Sposta leggermente
+Number of columns:	Numero di colonne:
+Number of rows:	Numero di righe:
+Numbering	Numerazione
+Object Color	Colore oggetto
+Objects	Oggetti
+Octagon	Ottagono
+On Click	Al clic
+On Click of {name}	Al clic su {name}
+On Click of… (none)	Al clic su… (nessuno)
+On Mouse Click	Al clic del mouse
+On-screen Show (16:10)	Presentazione su schermo (16:10)
+Open Data	Apri dati
+Open Dialog	Apri finestra di dialogo
+Open Recovered Presentations	Apri presentazioni recuperate
+Open the sample deck	Apri la presentazione di esempio
+Open…	Apri…
+Orange	Arancione
+Orbit	Orbita
+Order Objects	Ordina oggetti
+Origami	Origami
+Out	Esterno
+Out Bounce	Esterno con rimbalzo
+Outer	Esterna
+Outline	Struttura
+Outline (.txt)	Struttura (.txt)
+Outline View	Visualizzazione Struttura
+Outline\nView	Visualizzazione\nStruttura
+Oval	Ovale
+Oval ends	Estremità ovali
+Overhead	Lavagna luminosa
+PDF document (.pdf)	Documento PDF (.pdf)
+PNG images (all slides)	Immagini PNG (tutte le diapositive)
+PNG images (current slide)	Immagini PNG (diapositiva corrente)
+PRs	Pull request
+Page Curl	Ricciolo pagina
+Page Setup…	Imposta pagina…
+PageDown	PageDown
+PageUp	PageUp
+Pan	Panoramica
+Pane	Riquadro
+Paragraph	Paragrafo
+Paragraph…	Paragrafo…
+Parallelogram	Parallelogramma
+Pareto	Pareto
+Partial Circle	Cerchio parziale
+Particles	Particelle
+Paste	Incolla
+Paste (⌘V)	Incolla (⌘V)
+Paste Formatting	Incolla formattazione
+Paste and Match Formatting	Incolla e unisci formattazione
+Paste or type an outline. Unindented lines become slide titles; tab-indented lines become bullets.	Incolla o digita una struttura. Le righe senza rientro diventano titoli delle diapositive; quelle rientrate con tabulazione diventano punti elenco.
+Pasted image.png	Immagine incollata.png
+Path	Percorso
+Pattern fill	Riempimento a motivo
+Pause	Pausa
+Peek In	Comparsa graduale
+Peel Off	Distacco
+Pencil	Matita
+Pentagon	Pentagono
+Perspective	Prospettiva
+Pick a graphic; type one item per line.	Scegli un elemento grafico; digita un elemento per riga.
+Pick a look for your slides. Ideas are generated on your device.	Scegli un aspetto per le tue diapositive. Le idee vengono generate sul tuo dispositivo.
+Picture	Immagine
+Picture Format	Formato immagine
+Picture Styles	Stili immagine
+Picture from File…	Immagine da file…
+Picture or texture fill	Riempimento immagine o trama
+Picture\nStyles	Stili\nimmagine
+Pictures	Immagini
+Pie	Torta
+Pin	Puntina
+Placeholder colour	Colore segnaposto
+Plan\nBuild\nLaunch	Pianifica\nCrea\nLancia
+Plaque	Targa
+Play	Riproduci
+Play Across Slides	Riproduci in tutte le diapositive
+Play Full Screen	Riproduci a schermo intero
+Play Narrations	Riproduci commenti audio
+Play from Current Slide	Riproduci dalla diapositiva corrente
+Play from Start	Riproduci dall'inizio
+Play from Start (F5)	Riproduci dall'inizio (F5)
+Play from\nCurrent Slide	Riproduci dalla\ndiapositiva corrente
+Play from\nStart	Riproduci\ndall'inizio
+Play/Pause	Riproduci/Pausa
+Playback	Riproduzione
+Plus	Più
+Plus In	Più verso l'interno
+Plus Out	Più verso l'esterno
+Plus Sign	Segno più
+Portrait (9:16)	Verticale (9:16)
+Português	Português
+Position	Posizione
+Position Objects	Posiziona oggetti
+Position and Size	Posizione e dimensioni
+Post	Pubblica
+Poster Frame	Fotogramma iniziale
+PowerPoint Presentation (.pptx)	Presentazione di PowerPoint (.pptx)
+Preferences	Preferenze
+Preferences…	Preferenze…
+Presentation	Presentazione
+Presentations	Presentazioni
+Presentations and slide shows, rebuilt from scratch in pure Rust.	Presentazioni e proiezioni di diapositive, ricostruite da zero in puro Rust.
+Presented by a speaker (full screen)	Presentata da un relatore (schermo intero)
+Presenter View	Visualizzazione Relatore
+Presenter View — DeckCraft	Visualizzazione Relatore — DeckCraft
+Presenter\nView	Visualizzazione\nRelatore
+Preset gradients	Sfumature predefinite
+Prestige	Prestigio
+Preview	Anteprima
+Previous Slide	Diapositiva precedente
+Print layout:	Layout di stampa:
+Properties	Proprietà
+Pulse	Impulso
+Punctuation	Punteggiatura
+Purple	Viola
+Push	Spinta
+Pyramid	Piramide
+Quick Styles	Stili veloci
+Quick\nStyles	Stili\nveloci
+Radar	Radar
+Radial	Radiale
+Random	Casuale
+Random Bars	Barre casuali
+Reading View	Visualizzazione lettura
+Reading\nView	Visualizzazione\nlettura
+Real name	Nome reale
+Recent	Recenti
+Record	Registra
+Recording narration needs audio capture (coming soon)	La registrazione del commento audio richiede l'acquisizione audio (in arrivo)
+Recovered Presentations	Presentazioni recuperate
+Recovered {} from the last session	Recupero dall'ultima sessione: {}
+Rectangle	Rettangolo
+Rectangle: Diagonal Corners Rounded	Rettangolo con angoli diagonali arrotondati
+Rectangle: Diagonal Corners Snipped	Rettangolo con angoli diagonali ritagliati
+Rectangle: Rounded Corners	Rettangolo con angoli arrotondati
+Rectangle: Single Corner Rounded	Rettangolo con un angolo arrotondato
+Rectangle: Single Corner Snipped	Rettangolo con un angolo ritagliato
+Rectangle: Top Corners One Rounded and One Snipped	Rettangolo con angoli superiori uno arrotondato e uno ritagliato
+Rectangle: Top Corners Rounded	Rettangolo con angoli superiori arrotondati
+Rectangle: Top Corners Snipped	Rettangolo con angoli superiori ritagliati
+Rectangles	Rettangoli
+Rectangular	Rettangolare
+Red	Rosso
+Red Pen	Penna rossa
+Redo	Ripeti
+Redo (⌘Y)	Ripeti (⌘Y)
+Reflected Rounded Rectangle	Rettangolo arrotondato riflesso
+Reflection	Riflesso
+Regroup	Raggruppa di nuovo
+Regular Pentagon	Pentagono regolare
+Rehearse Timings	Prova intervalli
+Rehearse\nTimings	Prova\nintervalli
+Remove	Rimuovi
+Remove All Animations	Rimuovi tutte le animazioni
+Remove All Sections	Rimuovi tutte le sezioni
+Remove Animation	Rimuovi animazione
+Remove Background	Rimuovi sfondo
+Remove Background (coming soon)	Rimuovi sfondo (in arrivo)
+Remove Section	Rimuovi sezione
+Remove Section & Slides	Rimuovi sezione e diapositive
+Remove stop	Rimuovi punto di sfumatura
+Remove\nBackground	Rimuovi\nsfondo
+Rename	Rinomina
+Rename Layout	Rinomina layout
+Rename Section	Rinomina sezione
+Rename Section…	Rinomina sezione…
+Rename Slide	Rinomina diapositiva
+Rename…	Rinomina…
+Render Slide	Esegui il rendering della diapositiva
+Reopen	Riapri
+Reorder Animation	Riordina animazione
+Reorder Objects	Riordina oggetti
+Replace straight quotes with smart quotes	Sostituisci virgolette semplici con virgolette inglesi
+Reply	Rispondi
+Reply…	Rispondi…
+Reset	Reimposta
+Reset Background	Reimposta sfondo
+Reset Crop	Reimposta ritaglio
+Reset Effects	Reimposta effetti
+Reset Picture	Reimposta immagine
+Reset Slide	Reimposta diapositiva
+Reset Slide Background	Reimposta sfondo diapositiva
+Resize shape to fit text	Adatta la forma al testo
+Resolve	Risolvi
+Resolve Thread	Risolvi thread
+Return	Torna indietro
+Reveal	Rivela
+Reverse the order	Inverti l'ordine
+Revert	Ripristina
+Review	Revisione
+Rewind after Playing	Riavvolgi dopo la riproduzione
+Ribbon Tab	Scheda della barra multifunzione
+Ribbon: Tilted Down	Nastro inclinato verso il basso
+Ribbon: Tilted Up	Nastro inclinato verso l'alto
+Right	Destra
+Right Brace	Parentesi graffa chiusa
+Right Bracket	Parentesi quadra chiusa
+Right Triangle	Triangolo rettangolo
+Right-to-Left Text Direction	Direzione testo da destra a sinistra
+Ring	Anello
+Ripple	Increspatura
+Rise Up	Elevazione
+Rotate	Ruota
+Rotate Left 90°	Ruota a sinistra di 90°
+Rotate Right 90°	Ruota a destra di 90°
+Rotate all text 270°	Ruota tutto il testo di 270°
+Rotate all text 90°	Ruota tutto il testo di 90°
+Rotate with shape	Ruota con la forma
+Rotation	Rotazione
+Round Dot	Punto tondo
+Rounded Diagonal Corner	Angolo diagonale arrotondato
+Ruler	Righello
+Saturation	Saturazione
+Saturation {}%	Saturazione {}%
+Save	Salva
+Save (⌘S)	Salva (⌘S)
+Save As…	Salva con nome…
+Save AutoRecover Information	Salva informazioni di salvataggio automatico
+Save as Template…	Salva come modello…
+Save to Data	Salva nei dati
+Saved	Salvato
+Saved {path}	Salvato {path}
+Scatter	Dispersione
+ScreenTip:	Descrizione comando:
+Screenshot	Screenshot
+Screenshot (not available yet)	Screenshot (non ancora disponibile)
+Scroll: Horizontal	Pergamena orizzontale
+Scroll: Vertical	Pergamena verticale
+Search commands (⇧⌘P)	Cerca comandi (⇧⌘P)
+Search commands…	Cerca comandi…
+Section	Sezione
+Seek	Vai a posizione
+Select	Seleziona
+Select All	Seleziona tutto
+Select All Text	Seleziona tutto il testo
+Select Cells	Seleziona celle
+Select Objects	Seleziona oggetti
+Select Paragraph	Seleziona paragrafo
+Select Slides	Seleziona diapositive
+Select Text	Seleziona testo
+Select Word	Seleziona parola
+Select a chart first.	Seleziona prima un grafico.
+Select a shape to format it.	Seleziona una forma per formattarla.
+Select an object on the slide and add an animation from the Animations tab.	Seleziona un oggetto nella diapositiva e aggiungi un'animazione dalla scheda Animazioni.
+Selection	Selezione
+Selection Pane	Riquadro di selezione
+Selection Pane…	Riquadro di selezione…
+Selection\nPane	Riquadro di\nselezione
+Send Backward	Porta indietro
+Send to Back	Porta in secondo piano
+Send\nBackward	Porta\nindietro
+Sentence case.	Normale.
+Set Text	Imposta testo
+Set Up Show…	Configura presentazione…
+Set Up Slide Show	Configura presentazione
+Set Up Slide Show…	Configura presentazione…
+Set Up\nSlide Show	Configura\npresentazione
+Set as Default Shape	Imposta come forma predefinita
+Shading	Sfondo
+Shadow	Ombreggiatura
+Shape	Forma
+Shape Effects	Effetti forma
+Shape Fill	Riempimento forma
+Shape Format	Formato forma
+Shape Gallery	Raccolta forme
+Shape Outline	Contorno forma
+Shape Styles	Stili forma
+Shape {}	Forma {}
+Shape\nStyles	Stili\nforma
+Shapes	Forme
+Shift+	Shift+
+Shift+F9	Shift+F9
+Show	Mostra
+Show All	Mostra tutto
+Show Comments	Mostra commenti
+Show Media Controls	Mostra controlli multimediali
+Show Slide	Mostra diapositiva
+Show smart guides	Mostra guide smart
+Show type	Tipo di presentazione
+Show without animation	Presentazione senza animazioni
+Show without narration	Presentazione senza commento
+Show/Hide	Mostra/Nascondi
+Show\nComments	Mostra\ncommenti
+Shred	Frammenta
+Shrink & Turn	Riduci e ruota
+Shrink text on overflow	Comprimi testo in caso di overflow
+Simple Frame, White	Cornice semplice, bianca
+Size	Dimensioni
+Size & Properties	Dimensioni e proprietà
+Slide Master	Schema diapositiva
+Slide Number	Numero diapositiva
+Slide Show	Presentazione
+Slide Size	Dimensioni diapositiva
+Slide Sorter	Sequenza diapositive
+Slide number	Numero diapositiva
+Slide timings recorded.	Intervalli delle diapositive registrati.
+Slide {:02}:{:04.1}   Total {:02}:{:02}	Diapositiva {:02}:{:04.1}   Totale {:02}:{:02}
+Slide {} of {}	Diapositiva {} di {}
+Slide {}: {}{}	Diapositiva {}: {}{}
+Slide {}: “{w}”	Diapositiva {}: “{w}”
+Slide\nMaster	Schema\ndiapositiva
+Slide\nNumber	Numero\ndiapositiva
+Slide\nSize	Dimensioni\ndiapositiva
+Slide\nSorter	Sequenza\ndiapositive
+Slides (e.g. 1,3,5):	Diapositive (es. 1,3,5):
+Slides from Outline	Diapositive da struttura
+Slides from Outline…	Diapositive da struttura…
+Slides sized for:	Dimensioni diapositive per:
+SmartArt	SmartArt
+Smile	Sorriso
+Smiley Face	Faccina sorridente
+Smoothly	Uniformemente
+Smoothly Left	Uniformemente a sinistra
+Smoothly Right	Uniformemente a destra
+Snap objects to grid	Blocca oggetti alla griglia
+Soft Edge Rectangle	Rettangolo con bordi sfumati
+Soft Edges	Bordi sfumati
+Solid	Tinta unita
+Solid fill	Riempimento a tinta unita
+Solid line	Linea continua
+Sort	Ordina
+Source on GitHub	Codice sorgente su GitHub
+Space	Spazio
+Spacing after (pt):	Spaziatura dopo (pt):
+Spacing before (pt):	Spaziatura prima (pt):
+Special — hanging (in):	Speciale — sporgente (in):
+Speech	Fumetto
+Speech Bubble: Oval	Fumetto: ovale
+Speech Bubble: Rectangle	Fumetto: rettangolo
+Speech Bubble: Rectangle with Corners Rounded	Fumetto: rettangolo con angoli arrotondati
+Spelling	Controllo ortografia
+Spin	Rotazione
+Spinner	Trottola
+Split	Dividi
+Split Cells	Dividi celle
+Split\nCells	Dividi\ncelle
+Square	Quadrato
+Square (1:1)	Quadrato (1:1)
+Square Dot	Punto quadrato
+Stacked	In pila
+Stacked Area	Area in pila
+Stacked Bar	Barre in pila
+Stacked Column	Istogramma in pila
+Stacked Line	Linee in pila
+Standard (4:3)	Standard (4:3)
+Standard Colors	Colori standard
+Star	Stella
+Star: 10 Points	Stella a 10 punte
+Star: 12 Points	Stella a 12 punte
+Star: 16 Points	Stella a 16 punte
+Star: 24 Points	Stella a 24 punte
+Star: 32 Points	Stella a 32 punte
+Star: 4 Points	Stella a 4 punte
+Star: 5 Points	Stella a 5 punte
+Star: 6 Points	Stella a 6 punte
+Star: 7 Points	Stella a 7 punte
+Star: 8 Points	Stella a 8 punte
+Stars and Banners	Stelle e nastri
+Start After Previous	Inizia dopo precedente
+Start Automatically	Avvia automaticamente
+Start On Click	Inizia al clic
+Start With Previous	Inizia con precedente
+Start a conversation	Avvia una conversazione
+Start time (s):	Tempo di inizio (s):
+Start:	Inizio:
+Stealth end	Estremità stealth
+Stock	Azionario
+Stop	Interrompi
+Stop Editing Text	Interrompi modifica testo
+Strikethrough	Barrato
+Strips	Strisce
+Style {i}	Stile {i}
+Subscript	Pedice
+Subtle	Discreto
+Sun	Sole
+Sunburst	Radiale
+Superscript	Apice
+Surface	Superficie
+Switch	Scambia
+Swivel	Perno
+Symbol	Simbolo
+System language	Lingua di sistema
+Tab	Tabulazione
+Table	Tabella
+Table Design	Progettazione tabella
+Table Style Options	Opzioni stili tabella
+Table Styles	Stili tabella
+Table…	Tabella…
+Task Pane	Riquadro attività
+Teardrop	Goccia
+Teeter	Altalena
+Text	Testo
+Text Box	Casella di testo
+Text Box Margins	Margini casella di testo
+Text Direction	Orientamento testo
+Text Effects	Effetti testo
+Text Fill	Riempimento testo
+Text Highlight Color	Colore evidenziazione testo
+Text Options	Opzioni testo
+Text Outline	Contorno testo
+Text Shadow	Ombreggiatura testo
+Text/Background - Dark 1	Testo/Sfondo - Scuro 1
+Text/Background - Dark 2	Testo/Sfondo - Scuro 2
+Text/Background - Light 1	Testo/Sfondo - Chiaro 1
+Text/Background - Light 2	Testo/Sfondo - Chiaro 2
+Text\nBox	Casella\ndi testo
+The spelling check is complete. No issues found.	Il controllo ortografia è stato completato. Non sono stati trovati problemi.
+Theme Colors	Colori tema
+Theme Gallery	Raccolta temi
+Themes	Temi
+Thesaurus	Sinonimi
+Thesaurus (coming soon)	Sinonimi (in arrivo)
+This Document	Questo documento
+Thought	Pensiero
+Thought Bubble: Cloud	Fumetto pensiero: nuvola
+Through Black	Attraverso il nero
+Tight	Stretta
+Timing	Intervallo
+Top	In alto
+Total Row	Riga totale
+Transition	Transizione
+Transition Gallery	Raccolta transizioni
+Transitions	Transizioni
+Translate	Traduci
+Translation needs a language model (not bundled)	La traduzione richiede un modello linguistico (non incluso)
+Transparency	Trasparenza
+Trapezoid	Trapezio
+Treemap	Mappa ad albero
+Triangle	Triangolo
+Trigger	Attivazione
+Trim	Taglia
+Trim Media	Taglia elemento multimediale
+Turns	Rotazioni
+Type	Tipo
+Type Text	Digita testo
+Type an equation in linear form (e.g. a^2+b^2=c^2, x=(-b±√(b^2-4ac))/2a).	Digita un'equazione in formato lineare (es. a^2+b^2=c^2, x=(-b±√(b^2-4ac))/2a).
+Uncover	Scopri
+Underline	Sottolineato
+Undo	Annulla
+Undo (⌘Z)	Annulla (⌘Z)
+Ungroup	Separa
+Up	Su
+Use Timings	Usa intervalli
+Use timings, if present	Usa gli intervalli, se presenti
+Username	Nome utente
+Version	Versione
+Version {}	Versione {}
+Vert In	Verticale verso l'interno
+Vert Out	Verticale verso l'esterno
+Vertical	Verticale
+Vertical alignment	Allineamento verticale
+Very Loose	Molto ampia
+Very Tight	Molto stretta
+Video	Video
+Video from File…	Video da file…
+View	Visualizza
+Volume	Volume
+Vortex	Vortice
+Waterfall	Cascata
+Wave	Onda
+Web Page or File	Pagina Web o file
+Wedge	Cuneo
+Weight	Spessore
+Wheel	Ruota
+Widescreen (13.333x7.5 in)	Widescreen (13.333x7.5 in)
+Widescreen (16:9)	Widescreen (16:9)
+Width	Larghezza
+Width (in):	Larghezza (in):
+Width:	Larghezza:
+Width: 	Larghezza: 
+Wind	Vento
+Window	Finestra
+Wipe	Apparizione progressiva
+With Previous	Con precedente
+WordArt	WordArt
+WordArt style {}	Stile WordArt {}
+Words	Parole
+Wrap Text in Shape	Disponi testo a capo nella forma
+Wrap text in shape	Disponi testo a capo nella forma
+Yellow	Giallo
+Your changes will be lost if you don't save them.	Le modifiche andranno perse se non le salvi.
+Your name (comments):	Il tuo nome (commenti):
+Zoom	Zoom
+Zoom In	Zoom avanti
+Zoom Out	Zoom indietro
+Zoom…	Zoom…
+a) b) c)	a) b) c)
+a. b. c.	a. b. c.
+dropped file	file trascinato
+i. ii. iii.	i. ii. iii.
+no presentation open	nessuna presentazione aperta
+no slides	nessuna diapositiva
+no text insertion point	nessun punto di inserimento del testo
+nothing selected	nessuna selezione
+nothing to redo	niente da ripetere
+nothing to undo	niente da annullare
+select text or a shape	seleziona testo o una forma
+select two or more objects	seleziona due o più oggetti
+size (pt)	dimensione (pt)
+tOGGLE cASE	iNVERTI mAIUSC/mINUSC
+unknown interface language	lingua dell'interfaccia sconosciuta
+{ch}  Bullet	{ch}  Punto elenco
+{f} (Body)	{f} (Corpo)
+{f} (Headings)	{f} (Titoli)
+{name}: DeckCraft can't open this kind of file	{name}: DeckCraft non può aprire questo tipo di file
+{n} Column{}	{n} Colonna{}
+{r} pt	{r} pt
+{r} pt glow	Bagliore {r} pt
+{w} pt	{w} pt
+{} ({} slides)	{} ({} diapositive)
+{} Slide Master	Schema diapositiva {}
+{} contributors · {} commits	{} collaboratori · {} commit
+{} presentations	{} presentazioni
+{}x{} Table	Tabella {}x{}
+“{}” is not available yet.	“{}” non è ancora disponibile.
+−Bin	−Contenitore
+▶ Play All	▶ Riproduci tutto
+◀ Previous	◀ Precedente
+✏ on	✏ attivo
+# Words i18n::count() puts after a number (Italian has one form for 1 and one for the rest).
+Column	Colonna
+slide	diapositiva
+slides	diapositive
+presentations	presentazioni
+unsaved presentation	presentazione non salvata
+unsaved presentations	presentazioni non salvate

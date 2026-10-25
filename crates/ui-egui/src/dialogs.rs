@@ -751,6 +751,7 @@ fn body(app: &mut SlideApp, ui: &mut Ui, d: &mut Dialog) -> bool {
                                 crate::i18n::Language::System => "system",
                                 crate::i18n::Language::En => "en",
                                 crate::i18n::Language::Uk => "uk",
+                                crate::i18n::Language::It => "it",
                             };
                             let _ = app.run("app.language", json!({"language": code}));
                         }
